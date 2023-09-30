@@ -1,1 +1,1 @@
-# Tomatto-Leaf-Disease-Prediction-Using-CNN-30-09-2023
+# Tomatto-Leaf-Disease-Prediction-Using-CNN
